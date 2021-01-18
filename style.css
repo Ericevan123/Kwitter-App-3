@@ -1,0 +1,22 @@
+#div{
+    background-color: aqua;
+    width: 1300px;
+    height: 645px;
+}
+body{
+    text-align: center;
+    background-image: url("Bg_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#user_name{
+    width: 600px;
+    height: 50px;
+    border-style: ridge;
+    border-color: cadetblue;
+}
+#in_div{
+    background-color: cadetblue;
+    border-style: ridge;
+    border-color: blue;
+}
